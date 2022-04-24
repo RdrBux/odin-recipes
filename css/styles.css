@@ -1,0 +1,40 @@
+* {
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #4e473a;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: #504738;
+    font-weight: 900;
+    font-family: Garamond, Georgia, serif;
+}
+
+h2 {
+    font-size: 32px;
+    color: #31291c;
+    font-weight: bold;
+    font-family: Garamond, Georgia, serif;
+}
+
+li {
+    color: #4e473a;
+    
+}
+
+a {
+    color: rgb(179, 126, 29);
+    font-size: 20px;
+    font-family: Helvetica, Tahoma, sans-serif;
+}
+
+.main-img {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
